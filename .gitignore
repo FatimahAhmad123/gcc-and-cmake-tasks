@@ -1,0 +1,8 @@
+# Ignore files in subtask1 directory
+subtask1/dynamic_exec
+subtask1/libmymath.so
+
+# Ignore files in subtask2 directory
+subtask2/static_exec
+subtask2/libmymath.a
+subtask2/mymath.o
