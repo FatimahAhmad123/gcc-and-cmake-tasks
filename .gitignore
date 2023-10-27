@@ -6,3 +6,8 @@ subtask1/libmymath.so
 subtask2/static_exec
 subtask2/libmymath.a
 subtask2/mymath.o
+main_debug
+main_release
+
+CMake Task1/build-debug
+CMake Task1/build-release
