@@ -11,3 +11,5 @@ main_release
 
 CMake Task1/build-debug
 CMake Task1/build-release
+
+CMake-Task2/build
