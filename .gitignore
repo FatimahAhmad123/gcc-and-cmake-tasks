@@ -10,6 +10,6 @@ main_debug
 main_release
 
 CMake Task1/build-debug
-CMake Task1/build-release
+CMake Task1/build
 
 CMake-Task2/build
